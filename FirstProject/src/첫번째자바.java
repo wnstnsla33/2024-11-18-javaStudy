@@ -55,6 +55,20 @@
  	elasticSearch              
  	
  	
+ 	1.  자바설치 
+ 	path : c:\jdk-17.0.2\bin ==> java\javac
+ 	classpath : 자바에서 지원하는 라이브러리를 사용
+ 				.;c:\jdk-17.0.2\lib
+ 				==현재 폴더
+	
+	2. 이클립스
+		1) File => new => JavaProject	
+		2) src안에 자바파일 생성
+		
+ 	3. GIT
+ 		=> team ==> shareProject
+ 		=> team ==> commit9r
+ 	
  */
 public class 첫번째자바 {
 
