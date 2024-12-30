@@ -6,11 +6,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path=".apt_generated">
-		<attributes>
-			<attribute name="optional" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Administrator/eclipse/jee-2024-09/eclipse/lombok.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
